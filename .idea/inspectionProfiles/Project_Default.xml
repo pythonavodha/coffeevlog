@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="todo_app.models.model" />
+          <option value="todo_app.views.requeet" />
+          <option value="todo_app.views.request" />
+          <option value="todo_project.urls.urlpattern" />
+          <option value="todo_project.settings.FILES_DIRS" />
+          <option value="todo_project.urls.urlpatterns" />
+          <option value="todo_app.urls.name" />
+          <option value="todo_app.views.redirect" />
+          <option value="todo_app.models.datetime" />
+          <option value="restapp.views.viewsets" />
+          <option value="rest.urls.rest_framework" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
